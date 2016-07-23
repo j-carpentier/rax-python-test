@@ -7,7 +7,7 @@ queue and threads a worker process to write that message into a log file. The wo
 process should only thread a max of 20 threads.</h1>
 
    
-<h1>2. Write a function to print a 2-D array (n x m) in spiral order (clockwise).</h1>
+<strong>2. Write a function to print a 2-D array (n x m) in spiral order (clockwise).</strong>
  
 For example, consider the following input:
 <blockquote>
